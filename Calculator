@@ -1,2 +1,11 @@
 Console.WriteLine("My name is Muhammad Abdullah");
 Console.WriteLine("My Roll No. is 24-ST-020");
+Substraction
+int a=20 , b=80 ;
+int subs ;
+subs = a - b ;
+Console.WriteLine($"The Substraction of Two numbers is : {subs}");
+Addition
+int sum ;
+sum = a + b ;
+Console.WriteLine($"The Sum of Two numbers is : {sum}");
