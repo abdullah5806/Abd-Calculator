@@ -1,12 +1,15 @@
 Console.WriteLine("My name is Muhammad Abdullah");
 Console.WriteLine("My Roll No. is 24-ST-020");
-
-int a=20 , b=80 ;
-Division
-int div ;
-div = a / b ;
-Console.WriteLine($"The Division of Two numbers is : {div}");
 Multiplication
 int multi ;
 multi = a * b ;
 Console.WriteLine($"The Multiplication of Two numbers is : {multi}");
+Division
+int a=20 , b=80 ;
+int div ;
+div = a / b ;
+Console.WriteLine($"The Division of Two numbers is : {div}");
+Substraction
+int subs ;
+subs = a - b ;
+Console.WriteLine($"The Substraction of Two numbers is : {subs}");
